@@ -3,3 +3,12 @@ date format used to echange data
 similor to xml & JSON.
 in yaml, can store the data. not commands
 data scrialization.
+
+data serialization language : YAML, JSON, XML
+
+
+YAML (YAML Ain't Markup Language) - Lightweight text format. Human-readable. Supports comments and thus easily editable.
+Superset of JSON. Supports complex data types. Maps easily to native data structures.
+Used in configuration settings, document headers, Apps with need for MySQL style self-references in relational data.
+
+
